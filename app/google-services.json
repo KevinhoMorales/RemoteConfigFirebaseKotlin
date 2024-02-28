@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342989352132",
+    "project_id": "remoteconfigfirebasekotlin",
+    "storage_bucket": "remoteconfigfirebasekotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342989352132:android:d03b1ab08807010741ed91",
+        "android_client_info": {
+          "package_name": "com.kevinhomorales.remoteconfigfirebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC17MPMgYroCj7OmRdMhntVPyx7wpAL9bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
